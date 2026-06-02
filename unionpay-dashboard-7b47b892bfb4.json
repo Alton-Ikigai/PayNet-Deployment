@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "unionpay-dashboard",
+  "private_key_id": "7b47b892bfb4d9ec8bb72578f41d320af85d7d4f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC1EH9BlPHQ2GPK\nS20c/CONnd/hy2VdxKrzyTf9YJAo6vqJJMBGjCBofT0IkxY0CH7TS9TMV6EKiIgl\nGy1prmmzI/D4yVfDyxt3gHIOINRmk8Xsb7D/31FEeOPtoK7AkWcM39PZbvvmQBVK\nrzHdbAuczxF+MsneBJy4zXE493cMwyNNF9+KNs6MsFrdHR8ja+WgkxgOHN/zDBgS\nFK501So/oxaMJY7uig8TKIVxrosCcVXZkNUS06/oOTzEV/tz97iEyYNKpCS5CV6A\nSUwvD9R/tQRVGJcM91z5ZV9PJ3KiTjIj6WkkQgKPRSOdbtlQtJyH/SW/gcBSoXqb\nUMqVjBN/AgMBAAECggEAV7Lw4FQDODPHSdF0vShHFC3Wpaf9pgg/ASuCKgCecqM1\nzD13v/PZMqMOb9vGUleXDkLZhEwhXVe6EbbzLQ/kdHdBHU9wag4zdJNLKxqtpi2H\nHTkQEy8YTsD7LTq5yd3jevHiy5sc+W4qoezvix7tFPuarnRtIFM9kak4YO5DxHLi\n3epOQ4ZisGeKD88GaTWCAaPpK1Ne88sE6PGtEbS8FYVkEnXTckwwp84NO0ZqBiTx\nkgJo1xcPNA0C/m/QfgveP4CLh3BeDQFoxptOrt7PIEiN1gkitgMv/ivtT3Lpwn8D\nw3pHsso1+w/3a4zwflFZ0EZR8QCR0CLa7W9G0oLOoQKBgQDmEWtIYSPUcMeVcy+o\naL/G1bGW/xJJRXjPuIv5PLlgrp9v842vKKliTZDwnM6NLpZdf6bhEwnWBjihxr2+\nS/y3ZqE4UsD40Tk3rA0qSX1G/jumPftEYXvPLrcEvd1lDIhbOorUPYtBBT5jD3Lp\n9N5eCNQw0+IixWwRC4mx1Odv0QKBgQDJeRYFD3in6BEsAL8EWkyK/w+D4ziamrAX\npZqxNTkSfn5kS/qQPsmgS7IKpaqqMw9q6WLkxNPnz052XWnb4Uo0wviAMif79yw6\nmo4Tgf4nJ677Ld+hJZ3H3P0eVjiZZpJPxCqUHk4Z8Wapn0/6RK8nM1uusJXTiA7U\neVTyI93yTwKBgQCMuqr9Iy5fjH0JFeRZB3oHjj+LNYth9nTn2uMEGfjrAuXT/Q71\nzdGOqBO4mrJd+dlQZ/0UQCkMGdIaYw89kA2NweFsKnKPwKtXOo7zBvDytCCYl+FS\n+q5ZFSIubFU4smnWJAE3wk2kACkhPxnzsi0zKANjurfgvRJVetFHTgwjgQKBgDdv\n0whHboq9B2SVO/pFooQolKtUrXGVGNkY30zdeTvGhJ6ybVqdfDtYOMBHP4OfkyF2\n4JhUNH63gz58i7FN9243K8uSgYAKTig9+NQTU8yQVcyVndAompaxDxD25pIHMEE0\nmAazpAftbbNEu+wAVDW0IwkZW9Cdwn7id+Y8ykhvAoGANW/qd4y7HjJbgLpYPIhS\n8ou84bo4bJYoosAzeSQ9JgRtNS9EtDKBtXuJj+d/GtawpTXaqXSnhNZWQA+Z+LNe\ndq1v39IbqNqNRHzpsRJM5wawCA1d7QvT4BFn7zBgOu6Oy+CZDKIJ3zDB61AoYX7j\nUwbsFPMFyWjch/Tq8HDIksA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dashboard-reader@unionpay-dashboard.iam.gserviceaccount.com",
+  "client_id": "117841818575636403705",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dashboard-reader%40unionpay-dashboard.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
