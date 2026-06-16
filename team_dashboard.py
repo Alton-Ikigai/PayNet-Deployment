@@ -17,28 +17,16 @@ st_autorefresh(interval=60 * 1000, key="refresh")
 DATE_FORMAT = "%m/%d/%Y %H:%M:%S"
 
 TEAM_SHEETS = {
-    "Karmen": {
-        "sheet_id": "10oTpJalgKT-t8r0e2JWVMVKdCaeqCX41xsVsSP66ToQ",
-        "worksheet": "Form Responses 1"
-    },
-    "Feng": {
-        "sheet_id": "1xjylGxy2r1Pem_ZfG_ac4vgKat4omPHAEBfqiEKOnrI",
+    "Ahmad Ryan": {
+        "sheet_id": "1QleBE7Dt0ypyFIFSDgVFncfABEkgjnyfif1s-dJ9wTo",
         "worksheet": "Form Responses 1"
     },
     "Eavin": {
         "sheet_id": "1whCvsa2OBZk7fcWRKmx5j1XYt18RQaKrdA1foA2gHcA",
         "worksheet": "Form Responses 1"
     },
-    "Ivan": {
-        "sheet_id": "167Ixt3w3q1AaOzuh7xGnjl6oZqBcN0K2mpVyzyzJLog",
-        "worksheet": "Form Responses 1"
-    },
     "Ryan": {
         "sheet_id": "1_vX8OCJntEwDqfOl6MZyA-S3YcPCa-s97QgcBamviyU",
-        "worksheet": "Form Responses 1"
-    },
-    "Siong": {
-        "sheet_id": "1SBM-LH0c0SmsIhcErhITzXdU_lW6JVspF6QyBNn7a4Y",
         "worksheet": "Form Responses 1"
     }
 }
