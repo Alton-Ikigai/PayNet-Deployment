@@ -17,8 +17,8 @@ st_autorefresh(interval=60 * 1000, key="refresh")
 DATE_FORMAT = "%m/%d/%Y %H:%M:%S"
 
 TEAM_SHEETS = {
-    "Ahmad Ryan": {
-        "sheet_id": "1QleBE7Dt0ypyFIFSDgVFncfABEkgjnyfif1s-dJ9wTo",
+    "Alton": {
+        "sheet_id": "1nKtoy_adMfi1WqD8QXopEvVhgTyWB55GTgLqS2IZb0M",
         "worksheet": "Form Responses 1"
     },
     "Eavin": {
