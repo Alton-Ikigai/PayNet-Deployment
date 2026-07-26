@@ -28,6 +28,18 @@ TEAM_SHEETS = {
     "Ryan": {
         "sheet_id": "1_vX8OCJntEwDqfOl6MZyA-S3YcPCa-s97QgcBamviyU",
         "worksheet": "Form Responses 1"
+    },
+    "Feng": {
+        "sheet_id": "1xjylGxy2r1Pem_ZfG_ac4vgKat4omPHAEBfqiEKOnrI",
+        "worksheet": "Form Responses 1"
+    },
+    "Joe": {
+        "sheet_id": "1fjUwNne67nWsCc8R87uLw0yg_m_aYGWmCQUMz_VodFg",
+        "worksheet": "Form responses 1"
+    },
+    "Ern Tung": {
+        "sheet_id": "1Vz3FA0WrBRXCP02s-AhCEqPEg7tkpubJ22uKZ6mBjTw",
+        "worksheet": "Form Responses 1"
     }
 }
 
